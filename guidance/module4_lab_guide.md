@@ -17,7 +17,7 @@ This module is part of the Module 3-4 package. Use the same repository you creat
 
 https://github.com/tianhaiz/ban6003-week-03-04-cleaning-reproducibility-template
 
-Continue working in your own repository, not the instructor template. You may use Codespaces or your local conda/Jupyter environment. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link or completed files through Canvas.
+Continue working in your own repository, not the instructor template. Use Codespaces as the main path, or use your local conda/Jupyter environment if you are comfortable managing it. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link through Canvas.
 
 ## What You Will Practice
 
@@ -25,7 +25,7 @@ You will practice reproducible file paths, descriptive variable names, notebook 
 
 ## Recommended Workflow
 
-1. Open the notebook in Codespaces or local Jupyter.
+1. Open the notebook in Codespaces, or in local Jupyter if you are using the optional local path.
 2. Run the import and path setup cells.
 3. Load the data with a descriptive variable name.
 4. Complete the code style and notebook organization sections.
