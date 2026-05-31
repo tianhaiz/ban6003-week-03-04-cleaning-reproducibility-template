@@ -1,0 +1,21 @@
+{
+  "notebooks": [
+    "notebooks/week3_data_cleaning_lab.ipynb",
+    "notebooks/week4_github_repro_governance_lab.ipynb"
+  ],
+  "required_files": [
+    "data/employee_data.csv",
+    "data/raw/employee_data.csv"
+  ],
+  "forbidden_files": [
+    ".env"
+  ],
+  "execute_notebooks": true,
+  "requires_database": false,
+  "execution_timeout_seconds": 900,
+  "require_marked_code_outputs": true,
+  "check_markdown_placeholders": true,
+  "min_marked_code_cells": {
+    "notebooks/week4_github_repro_governance_lab.ipynb": 2
+  }
+}

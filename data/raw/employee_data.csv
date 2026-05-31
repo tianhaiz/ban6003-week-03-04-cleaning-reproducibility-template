@@ -1,0 +1,14 @@
+employee_id,first_name,last_name,hire_date,department,salary,age,full_time
+101,Ava,Chen,2021-01-15,Finance,"$95,000",34,Yes
+102,Ben,Garcia,2020/02/20,HR,78000,29,Y
+103,Chloe,Patel,March 3 2019,IT,105000,41,True
+104,Diego,Nguyen,2018-07-01,Finance,not available,38,No
+105,Emma,Brown,2017-11-31,Sales,"$88,500",,N
+106,Farah,Wilson,2022-06-10,sales,72000,27,yes
+107,George,Lee,not sure,Marketing,65000,150,no
+108,Hannah,Kim,2023-04-12,IT,91000,31,TRUE
+102,Ben,Garcia,2020/02/20,HR,78000,29,Y
+110,Iris,Martinez,2021-09-08,Finance,,45,1
+111,Jack,Olsen,2020-01-05,Marketing,62000,33,0
+error,Kai,Singh,2022-03-12,IT,86000,30,Yes
+113,Lina,Lopez,,,70000,28,No

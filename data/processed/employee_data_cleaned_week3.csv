@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,hire_date,department,salary,age,full_time
+101,Ava,Nguyen,2021-03-15,Finance,95000,29.0,Yes
+104,David,Evans,2019-11-30,IT,88500,41.0,Yes
+106,Frank,Garcia,2022-05-20,Finance,91000,35.5,Y
+107,Grace,Hall,2021-01-10,sales,80250,32.0,N
+108,Henry,Ibrahim,2023-02-14,IT,72000,26.0,Yes
+110,Ivy,Jones,2020-09-01,HR,65000,39.0,No
+111,Jack,Kim,2021-12-12,Marketing,70500,150.0,Yes
